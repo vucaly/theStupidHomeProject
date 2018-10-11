@@ -1,2 +1,2 @@
 # theStupidHomeProject
-A project for thee stupid home
+A project for the stupid home
